@@ -1,0 +1,63 @@
+header{
+  width: 1320px;
+  height: 600px;
+  background-image: url(../images/Banner\ Image.png);
+  background-repeat: no-repeat;
+  border-radius: 16px;
+  margin: 0 auto;
+  }
+/* common shared new year styles */
+.banner{
+  color: #FFF;
+  text-align: center;
+  padding: 180px;
+  
+
+}
+
+.banner-title{
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+
+  
+
+}
+.banner-description{
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  padding-right: 50px;
+
+}
+/* 2nd picture */
+nav{
+  text-align: center;
+}
+.second-pic{
+  padding: 0 260px ;
+
+}
+/* midnight party */
+.midnight-container{
+  color: #FFF;
+  display: flex;
+  background-image: url('../images/Vectorrr.png');  
+  margin-top: 100px;
+
+}
+.midnight-title{
+  color: #FFF;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-weight: 900;
+  padding-left: 120px;
+  margin-bottom: 0;
+}
+.midnight-description{
+  padding-left: 120px;
+  margin-top: 30px;
+}
+.midnight-pic{
+  padding: 69px 238px 69px 600px;
+}
